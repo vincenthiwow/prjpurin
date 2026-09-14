@@ -3,15 +3,15 @@
     {
       "id": "sx",
       "name": "Season X (10.40)",
-      "thumbUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/main/images/seasons/sx_thumb.png",
-      "previewUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/main/images/seasons/sx_preview.png",
+      "thumbUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/refs/heads/main/sx_preview.png",
+      "previewUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/refs/heads/main/sx_thumb.png",
       "description": " ' Out of Time ' - Season X brought back fan-favorite locations, introduced Rift Zones, and featured the return of many classic skins. The Battle Pass featured Tilted Teknique, Catalyst, and more."
     },
     {
       "id": "c2s4",
       "name": "Chapter 2 Season 4 (14.60)",
-      "thumbUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/main/images/seasons/c2s4_thumb.png",
-      "previewUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/main/images/seasons/c2s4_preview.png",
+      "thumbUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/refs/heads/main/c2s4_thumb.png",
+      "previewUrl": "https://raw.githubusercontent.com/vincenthiwow/prjpurin/refs/heads/main/c2s4_preview.png",
       "description": " ' Nexus War ' - Chapter 2 Season 4 was the Marvel-themed season, bringing heroes like Iron Man, Thor, Wolverine, and She-Hulk to the island, along with the Quinjet patrol, Stark Industries, and the final showdown with Galactus."
     }
   ]
